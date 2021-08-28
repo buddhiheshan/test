@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test test2
-=======
 test test3
->>>>>>> c8fa9c0 (chenged test1)
