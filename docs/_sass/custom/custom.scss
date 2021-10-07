@@ -5,14 +5,11 @@
 
   .side-bar {
     width: unset;
-    min-width: 264px;
   }
 }
 
 @media (min-width: 50rem) {
   .main {
-    position: relative;
     max-width: unset;
-    margin-left: 248px;
   }
 }
